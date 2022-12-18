@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Rohit ",
+      "class": "11th",
+      "email": "rohit@gmail.com",
+      "mobile": "7845698569"
+    },
+    {
+      "id": 3,
+      "name": "Suresh",
+      "class": "12th",
+      "email": "suresh@gmail.com",
+      "mobile": "7845123659"
+    },
+    {
+      "id": 6,
+      "name": "Priya",
+      "class": "12th",
+      "email": "pr12@gmail.com",
+      "mobile": "98000000085"
+    },
+    {
+      "id": 7,
+      "name": "Ramesh",
+      "class": "10th",
+      "email": "ramesh@gmail.com",
+      "mobile": "7845698569"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
